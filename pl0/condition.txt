@@ -1,0 +1,17 @@
+var i,j,k,l,o,p;
+begin
+k:=3;
+l:=5;
+o:=9212;
+p:=2243;
+read(i,j);
+print();
+if (i) then
+print(p);
+if((i>j ||j<=k) && l>i) then
+print(o);
+print();
+/*while((i-->j &&j<=k) || l>i)
+do
+print(o);*/
+end.

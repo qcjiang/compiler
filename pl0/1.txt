@@ -1,0 +1,5 @@
+var i;
+begin
+read(i);
+print(i);
+end.

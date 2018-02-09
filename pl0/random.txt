@@ -1,0 +1,6 @@
+var i,j;
+begin
+i:=random();
+j:=random(5);
+print(i,j);
+end.
